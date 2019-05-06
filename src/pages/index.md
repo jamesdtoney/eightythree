@@ -7,7 +7,7 @@ description: >-
   adipisci velit...
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/brandingandstrategy.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
@@ -19,7 +19,7 @@ offerings:
         non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
         ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
         interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+    - image: /img/webdesign.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
         Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
